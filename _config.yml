@@ -42,7 +42,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://dayeon20.github.io
+      url: https://dayeon24.github.io
     runs-on: ubuntu-latest
     needs: build
     steps:
